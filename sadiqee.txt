@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> <center><h1>Table sample</h1></center>
+    <table cellpadding="30" cellspacing="20"  bgcolor="pink">
+
+<tr bgcolor="yellow"> <td>shah</td>  <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td>  <td>shah</td> <td>shah</td> <td>shah</td> </tr>
+
+<tr bgcolor="white">  <td bgcolor="red">shah</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td bgcolor="red">shah</td> </tr>
+
+<tr bgcolor="white"><td bgcolor="red">shah</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td bgcolor="red">shah</td> </tr>
+
+<tr bgcolor="white"> <td bgcolor="red">shah</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td bgcolor="red">shah</td></tr>
+
+<tr bgcolor="white"> <td bgcolor="red">shah</td> <td></td> <td></td> <td></td> <td></td><td></td> <td></td><td></td> <td></td> <td bgcolor="red">shah</td></tr>
+
+<tr bgcolor="white"> <td bgcolor="red">shah</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td bgcolor="red">shah</td></tr> 
+
+<tr bgcolor="white"><td bgcolor="red">shah</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td bgcolor="red">shah</td></tr>
+
+<tr bgcolor="yellow"> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> <td>shah</td> </tr>
+
+
+
+    </table>
+</body>
+</html>
